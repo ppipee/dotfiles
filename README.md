@@ -1,6 +1,6 @@
 # for Ubuntu
 
-### list install
+### install
 
 - grub-customizer
 - boot-repair
@@ -16,3 +16,4 @@
 - prolong battery
 - media code
 - flatpak
+- slack
